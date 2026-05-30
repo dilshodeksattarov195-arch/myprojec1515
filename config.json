@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpereelete",
+        "uuid": 156045,
+        "checksum": "c7bxye"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
